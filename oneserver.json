@@ -1,0 +1,192 @@
+[
+    {
+        "name": "United States 🇺🇸 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United States%20#20946%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "United States 🇺🇸 ",
+        "config": "ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#United States%20#21074%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "United States  🇺🇸",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc@144.126.146.38:30789#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-144.126.146.38%3A30789"
+    },
+    {
+        "name": "United States 🇺🇸",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United States%20#21505%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "United States 🇺🇸",
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.130:443#United%20States%20Datacamp"
+    },
+    {
+        "name": "United States 🇺🇲",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    },
+    {
+        "name": "United States 🇺🇲",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us1.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    },
+    {
+        "name": "France 🇫🇷",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    },
+    {
+        "name": "Germany 🇩🇪",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.220:2222#Germany%20#21577%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Germany 🇩🇪 ",
+        "config": "ss://YWVzLTI1Ni1nY206S25ZS3dwdzB3NGMwUkRuQ284S1VjRFFjd3BwN3c3YkN2M25DZ01PUEhCL0RuaExEajhPYXdyVlZCMm81@178.128.200.198:8443#Germany%20#21504%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Germany 🇩🇪 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMXhPaGZONXR2enJpZ25YdXhXa2t3@77.239.116.76:8315#Germany%20#21293%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Germany 🇩🇪 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Germany%20#21195%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Germany 🇩🇪",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    },
+    {
+        "name": "Germany 🇩🇪 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbDZPdG1ScU1zNmFpRkpKMHlTZFVV@165.22.82.213:80/?outline=1"
+    },
+    {
+        "name": "Latvia 🇱🇻 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1elJpQktBWWJLcERRdVc0bktHRUR4MTNINGg5R2VEeGFxMk9NdUppcUJ2UTVSc3M=@185.135.86.86:31348#Latvia%20#21042%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Latvia 🇱🇻 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#Latvia%20#21576%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "United Kingdom 🇬🇧 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#United Kingdom%20#21377%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "United Kingdom 🇬🇧 ",
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#United%20Kingdom%20Datacamp"
+    },
+    {
+        "name": "United Kingdom 🇬🇧 ",
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#United%20Kingdom%20M247"
+    },
+    {
+        "name": "United Kingdom 🇬🇧 ",
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+Kingdom+Datacamp"
+    },
+    {
+        "name": "United Kingdom 🇬🇧 ",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    },
+    {
+        "name": "Netherlands 🇳🇱",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#Netherlands%20#21581%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Netherlands 🇳🇱",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Netherlands%20#21235%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Netherlands 🇳🇱",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#Netherlands%20#21498%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Finland 🇫🇮",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#Finland%20#21292%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Finland 🇫🇮",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#Finland%20#21564%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Poland 🇵🇱",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@45.43.137.114:443#Poland%20#21558%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Poland 🇵🇱",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#Poland%20#21582%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Poland 🇵🇱 ",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    },
+    {
+        "name": "Switzerland 🇨🇭",
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#Switzerland%20Datacamp"
+    },
+    {
+        "name": "Austria 🇦🇹",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria%20PQ"
+    },
+    {
+        "name": "Japan 🇯🇵",
+        "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp"
+    },
+    {
+        "name": "Hong kong 🇭🇰",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Vietnam 🇻🇳",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#Vietnam%20#20946%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Vietnam 🇻🇳",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#Vietnam%20#21550%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Taiwan 🇹🇼",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#t.me%2FOutlineVpnOfficial%20%7C%20%282586%29%20%7C%20TW"
+    },
+    {
+        "name": "India 🇮🇳",
+        "config": "ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#India%20#20945%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "India 🇮🇳",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India%20#20949%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Turkey 🇹🇷",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Turkey%20#21058%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Turkey 🇹🇷",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#Turkey%20#21548%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Argentina 🇦🇷",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Argentina%20#21134%20/%20OutlineKeys.com"
+    },
+    {
+        "name": "Canada 🇨🇦 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80/?outline=1"
+    },
+    {
+        "name": "Canada 🇨🇦 ",
+        "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#t.me%2FOutlineVpnOfficial%20%7C%20%282589%29%20%7C%20CA"
+    },
+    {
+        "name": "Canada 🇨🇦 ",
+        "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
+        "username": "vpnbook",
+        "password": "cf32e5w"
+    }
+]
