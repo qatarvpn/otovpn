@@ -20,22 +20,16 @@
   "name": "Germany 1 🇩🇪",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#Germany%20#22777%20/%20OutlineKeys.com"
 },
-  {
-      "name": "GERMANY 2 🇩🇪",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
-      "username": "vpnbook",
-      "password": "c3wrex2"
-    },
- {
-  "name": "Germany 3 🇩🇪 ",
+{
+  "name": "Germany 2 🇩🇪 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany%20#12466%20/%20OutlineKeys.com"
 },
   {
-  "name": "Germany 4 🇩🇪 ",
+  "name": "Germany 3 🇩🇪 ",
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeWd1YUl0ekJmTjlZanY0MldnSVdi@45.144.54.33:34803#Germany%20#22761%20/%20OutlineKeys.com"
 },
      {
-      "name": "Germany 5 🇩🇪",
+      "name": "Germany 4 🇩🇪",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "c3wrex2"
@@ -116,14 +110,6 @@
        {
     "name": "Poland 4 🇵🇱",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱[openproxylist.com] ss-PL"
-  },
-     {
-    "name": "Poland 5 🇵🇱",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🇵🇱[openproxylist.com] ss-PL"
-  },
-     {
-    "name": "Poland 6 🇵🇱",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MThSUFdFUm1kWUtUVUtrVGtvT0VE@77.83.246.74:443#Poland%20#22207%20/%20OutlineKeys.com"
   },
     {
   "name": "Switzerland 1 🇨🇭",
